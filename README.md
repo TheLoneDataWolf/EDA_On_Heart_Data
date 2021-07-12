@@ -5,4 +5,4 @@ Visualizations included so the data has a clearer meaning.
 
 The dataset is attached for reference.
 
-I hope you leanred something :) 
+I hope you learned something :) 
